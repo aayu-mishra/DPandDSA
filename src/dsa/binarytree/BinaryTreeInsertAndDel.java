@@ -15,6 +15,5 @@ public class BinaryTreeInsertAndDel {
     private static void insertBT(int n) {
         List<Node> list= new ArrayList<>();
 
-
     }
 }
